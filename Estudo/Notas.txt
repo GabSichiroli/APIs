@@ -1,0 +1,2 @@
+1- Tipo de rota/Metodo HTTP
+2- Endereço
